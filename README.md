@@ -1,0 +1,5 @@
+Research has shown that the presence of music can significantly influence our cognitive abilities as we perform our daily routines For instance, some studies suggest that the tempo of music can impact the pace of customer responses, while calming melodies may enhance our mental capacities (Cockerton et al., 1997). Music choice, however, also has the ability to overwhelm our cognitive space, resulting in reduced efficiency (Thompson et al., 2012). This is observed most when both the task and the music demand a similar type of cognitive processing.
+
+Part of our routines also involve making everyday financial decisions whether its buying groceries or buying stocks. These decisions involve different aspects of uncertainty which can either lead to either fruitful gains or unfortunate losses.  
+
+In this report, we analyze the factors affecting risk-taking in financial decisions and explore how music-related factors affect our economic decisions and improve decision-making to increase investment success. 
